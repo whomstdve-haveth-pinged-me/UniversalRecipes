@@ -12,3 +12,5 @@
   * A simple touch and drag gesture to choose the method, notes and ingredients
   * A settings menu
   * Material design
+  * A template based formatting system
+  * Tile / card view
